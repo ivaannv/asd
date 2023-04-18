@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.section-first{
+    background-color: rgb(152, 197, 243);
+    padding: 80px 400px;
+    border-top: 5px outset black;
+    border-right: 5px solid black;
+    border-left: 5px outset black;
+    border-bottom: 5px solid black;
+    margin: 10px;
+}
+
+li{
+    margin: 20px;
+}
+
+footer{
+background-color: rgb(200, 0, 177);
+border: 40px;
+margin: 10px;
+}
+
+.section-first p {
+    font-family: 'Nunito Sans', sans-serif;;
+}
+
+a, p, h1{
+    font-family: 'Nunito Sans', sans-serif;
+}
+header nav ul li a {
+    text-decoration: overline;
+    color: black;
+    cursor: pointer;
+}
